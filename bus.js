@@ -10,7 +10,7 @@ if (age <= 10) {
 else if (age > 10 && age < 26) {
     const student = ticket * 50 / 100
     const stuPrice = ticket - student
-    console.log('he/she is Student they have 50% discount =', price)
+    console.log('he/she is Student they have 50% discount =', stuPrice)
 }
 else if (age > 60) {
     const senior = ticket * 60 / 100
